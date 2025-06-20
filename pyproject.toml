@@ -5,7 +5,13 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
+    "dotenv>=0.9.9",
+    "huggingface-hub[cli]>=0.33.0",
+    "huggingface[cli]>=0.0.1",
     "ipykernel>=6.29.5",
+    "mlflow>=3.1.0",
+    "pip>=25.1.1",
+    "scikit-learn>=1.7.0",
     "streamlit>=1.45.1",
     "torch>=2.7.1",
     "torchvision>=0.22.1",
