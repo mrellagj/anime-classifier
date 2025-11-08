@@ -344,6 +344,7 @@ def main():
      
     load_dotenv(PROJECT_DIR/'.env')
     torch.manual_seed(42)
+    torch.set_num_threads(3)
     parser = argparse.ArgumentParser(description="Train a model with configurable parameters.")
     parser.add_argument('--config', type=str, default=PROJECT_DIR/'config.json', help="Path to config file")
     parser.add_argument('--device', type=str, default='cuda' if torch.cuda.is_available() else 'cpu', help="Device to train the model on")
@@ -370,10 +371,9 @@ def main():
     test_dir = data_params['test_data_path']
     mlflow.log_param('data_path', Path('data').resolve())
     
-    transforms.RandomPerspective
     train_transform = transforms.Compose([
         # transforms.Resize(data_params['image_size']),
-        transforms.RandomResizedCrop(data_params['image_size'],scale=(0.5, 1.0)),
+        transforms.RandomResizedCrop(data_params['image_size'],scale=(0.8, 1.0)),
         transforms.RandomHorizontalFlip(),
         transforms.ColorJitter(brightness=0.2, contrast=0.2, saturation=0.2),
         transforms.RandomRotation(10),
