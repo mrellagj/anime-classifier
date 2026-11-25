@@ -1,0 +1,28 @@
+{
+  "model": {
+    "name": "EfficientNetV2Model"
+  },
+  "training": {
+    "num_epochs": 50,
+    "batch_size": 8,
+    "num_workers": 3,
+    "learning_rate": 1e-4,
+    "lr_decay": 0.1,
+    "lr_patience": 2,
+    "patience": 6,
+    "min_delta": 1e-02,
+    "accumulation_interval": 2,
+    "val_interval": 1
+  },
+  "data": {
+    "train_data_path": "./data/processed/train",
+    "val_data_path": "./data/processed/val",
+    "test_data_path": "./data/processed/test",
+    "image_size": [
+      512,
+      512 
+    ],
+    "mean": [0.692656, 0.63099396, 0.650534], 
+    "std": [0.23832476, 0.23472628, 0.22004133]
+  }
+}

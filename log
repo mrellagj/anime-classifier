@@ -1,0 +1,201 @@
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/Image.py:3451: DecompressionBombWarning: Image size (95630000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/Image.py:3451: DecompressionBombWarning: Image size (95630000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/Image.py:3451: DecompressionBombWarning: Image size (95630000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/Image.py:3451: DecompressionBombWarning: Image size (95630000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/Image.py:3451: DecompressionBombWarning: Image size (95630000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/Image.py:3451: DecompressionBombWarning: Image size (95630000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/Image.py:3451: DecompressionBombWarning: Image size (95630000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/Image.py:3451: DecompressionBombWarning: Image size (95630000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/Image.py:3451: DecompressionBombWarning: Image size (95630000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/Image.py:3451: DecompressionBombWarning: Image size (95630000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/Image.py:3451: DecompressionBombWarning: Image size (95630000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/Image.py:3451: DecompressionBombWarning: Image size (95630000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/Image.py:3451: DecompressionBombWarning: Image size (95630000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/Image.py:3451: DecompressionBombWarning: Image size (95630000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/Image.py:3451: DecompressionBombWarning: Image size (95630000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/Image.py:3451: DecompressionBombWarning: Image size (95630000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/Image.py:3451: DecompressionBombWarning: Image size (95630000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/Image.py:3451: DecompressionBombWarning: Image size (95630000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/Image.py:3451: DecompressionBombWarning: Image size (95630000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+/home/gjmrem/dev/projects/anime-classifier/.venv/lib/python3.13/site-packages/PIL/TiffImagePlugin.py:949: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
+  warnings.warn(str(msg))
+2026/11/20 20:38:52 WARNING mlflow.pytorch: Saving pytorch model by Pickle or CloudPickle format requires exercising caution because these formats rely on Python's object serialization mechanism, which can execute arbitrary code during deserialization.The recommended safe alternative is to set 'export_model' to True to save the pytorch model using the safe graph model format.
+Downloading artifacts:   0%|                                                                                                                                             | 0/1 [00:00<?, ?it/s]Downloading artifacts: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:01<00:00,  1.17s/it]Downloading artifacts: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:01<00:00,  1.17s/it]Downloading artifacts: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:01<00:00,  1.21s/it]
+Registered model 'EfficientNetV2Model' already exists. Creating a new version of this model...
+2026/11/20 20:42:43 INFO mlflow.store.model_registry.abstract_store: Waiting up to 300 seconds for model version to finish creation. Model name: EfficientNetV2Model, version 80
+Created version '80' of model 'EfficientNetV2Model'.

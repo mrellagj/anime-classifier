@@ -1,23 +1,28 @@
 {
-    "model": "ResNet34Model",
-    "training": {
-        "num_epochs": 20,
-        "batch_size": 64,
-        "num_workers": 4,
-        "learning_rate": 1e-5,
-        "lr_decay": 0.1,
-        "lr_patience": 2,
-        "patience": 4,
-        "min_delta": 1e-5,
-        "val_interval": 1
-    },
-
-    "data": {
-        "train_data_path": "./data/processed/train",
-        "val_data_path": "./data/processed/val",
-        "test_data_path": "./data/processed/test",
-        "image_size": [224, 224],
-        "mean": [0.69088995, 0.6272622,  0.64698607],
-        "std": [0.28675508, 0.28253487, 0.26916876]
-    }
+  "model": {
+    "name": "EfficientNetV2Model"
+  },
+  "training": {
+    "num_epochs": 50,
+    "batch_size": 4,
+    "num_workers": 3,
+    "learning_rate": 1e-4,
+    "lr_decay": 0.1,
+    "lr_patience": 2,
+    "patience": 6,
+    "min_delta": 0.1,
+    "accumulation_interval": 8,
+    "val_interval": 1
+  },
+  "data": {
+    "train_data_path": "./data/processed/train",
+    "val_data_path": "./data/processed/val",
+    "test_data_path": "./data/processed/test",
+    "image_size": [
+      512,
+      768 
+    ],
+    "mean": [0.692656, 0.63099396, 0.650534], 
+    "std": [0.23832476, 0.23472628, 0.22004133]
+  }
 }
